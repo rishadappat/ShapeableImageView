@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ShapeableImageView</string>
+    <string name="corner_radius">Corner Radius</string>
+    <string name="corners">Corners</string>
+    <string name="all">All</string>
+    <string name="top_left">Top Left</string>
+    <string name="top_right">Top Right</string>
+    <string name="bottom_right">Bottom Right</string>
+    <string name="bottom_left">Bottom Left</string>
+
+    <string name="corner_family">Corner Family</string>
+    <string name="round">Round</string>
+    <string name="cut">Cut</string>
+</resources>
